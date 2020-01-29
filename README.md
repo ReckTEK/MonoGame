@@ -1,4 +1,11 @@
-﻿# MonoGame
+﻿# ReckTEK.MonoGame.Framework.WindowsDX
+ 
+ This is a custom fork of MonoGame that has updates to support the ability to render Chromium via CEF to SharedTextures in MonoGame as part of the draw retouine.
+
+Below is the standard readme from MonoGame
+
+ 
+ # MonoGame
 
 One framework for creating powerful cross-platform games.  The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms.  [MonoGame](http://www.monogame.net/) is a fully managed .NET open source game framework without any black boxes.  Create, develop and distribute your games your way.
 
