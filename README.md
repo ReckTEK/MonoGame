@@ -1,6 +1,6 @@
 ﻿# ReckTEK.MonoGame.Framework.WindowsDX
  
- This is a custom fork of MonoGame that has updates to support the ability to render Chromium via CEF to SharedTextures in MonoGame as part of the draw retouine.
+ This is a custom fork of MonoGame that has updates to support the ability to render Chromium via CEF to SharedTextures in MonoGame as part of the draw routine.
 
 Below is the standard readme from MonoGame
 
